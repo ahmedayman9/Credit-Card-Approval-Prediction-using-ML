@@ -28,3 +28,5 @@ Credit record (contains applicant's loan payment records)
 I reach a good score in Testing and Training 
 
 <img src="https://github.com/ahmedayman9/Credit-Card-Approval-Prediction-using-ML/blob/main/Screenshot%202023-02-15%20at%209.29.09%20AM.png" width="900" height="300" >
+
+link of problem: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=credit_record.csv 
